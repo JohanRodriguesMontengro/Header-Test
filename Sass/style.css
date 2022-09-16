@@ -1,8 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
-.LinkMenu {
-  margin-left: -100px;
+.MenuLogo {
+  height: 100px;
+  margin-left: 500px;
 }
